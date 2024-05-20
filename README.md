@@ -1,5 +1,4 @@
 
-About Me
 I am Andala Vinay Kumar, a recent graduate with a Bachelor’s degree in Electronics and Communication Engineering. Passionate about software development, I am eager to collaborate on exciting projects and contribute to the tech community.
 
 Skills
