@@ -3,7 +3,7 @@ I am Andala Vinay Kumar, a recent graduate with a Bachelor’s degree in Electro
 
 Skills
 ----------
-Java: Proficient in Java programming, including object-oriented concepts and data structures.
+Java: Proficient in Java programming, including object-oriented concepts and data structures.||
 MySQL: Experienced in database design, SQL queries, and database management.
 Web Development:
 HTML: Skilled in creating web pages and structuring content.
